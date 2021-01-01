@@ -6,7 +6,7 @@ A Convolutional Neutal Network was trained on the RVL CDIP dataset, it contains 
 1. [**Data Extraction and Exploration**](#data-extraction-and-exploration)
 2. [**Model Architecture**](#Model-Architecture)
 3. [**Training the Model**](#training-the-model)
-4. [**Testing of Model**](#testing-the-model)
+4. [**Testing of Model**](#testing-of-model)
 5. [**Infereneces and Remarks**](#Inferences-and-Remarks)
 
 ## **Data Extraction and Exploration**
