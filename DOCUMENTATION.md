@@ -78,8 +78,7 @@ The model accuracy and loss values for both the training and validation sets are
 
 
 As we can see from the accuracy and loss numbers, the model does not overfit the training data as the delta between the model accuracy for the training set and the validation set is about 1 percent.
-
-#say some more 
+ 
 
 ## Testing of Model
 
