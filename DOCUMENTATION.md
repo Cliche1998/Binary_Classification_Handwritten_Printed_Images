@@ -26,7 +26,6 @@ This is a sample image for the printed text (newspaper) class
 
 
 ## **Model Architecture**
-#draw a nn using this tool http://alexlenail.me/NN-SVG/LeNet.html
 
 A Convolutional Neural Network was used for the binary classification task of two types of images, as CNNs produce the best results with images, and takes lesser time to train when compared to a standard Neural Network, as there are lesser parameters to train.
 
